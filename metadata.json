@@ -11,15 +11,15 @@
         },
         {
             "name": "puppetlabs/mysql",
-            "version_requirement": ">=6.0.0 <16.0.0"
+            "version_requirement": ">=6.0.0 <17.0.0"
         },
         {
             "name": "puppetlabs/stdlib",
-            "version_requirement": ">=5.0.0 <10.0.0"
+            "version_requirement": ">=5.0.0 <11.0.0"
         },
         {
             "name": "puppet/rabbitmq",
-            "version_requirement": ">=2.0.2 <14.0.0"
+            "version_requirement": ">=2.0.2 <15.0.0"
         },
         {
             "name": "puppetlabs/postgresql",
